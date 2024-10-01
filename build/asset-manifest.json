@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/space-landing-page/static/css/main.7f3b7046.css",
+    "main.js": "/space-landing-page/static/js/main.21105854.js",
+    "static/js/453.1a094713.chunk.js": "/space-landing-page/static/js/453.1a094713.chunk.js",
+    "static/media/wave Gif.gif": "/space-landing-page/static/media/wave Gif.1476fd455a13ac4043ac.gif",
+    "static/media/earth-bg.mp4": "/space-landing-page/static/media/earth-bg.1dd58d49c845a19cc45e.mp4",
+    "static/media/moon-surface-hd.png": "/space-landing-page/static/media/moon-surface-hd.246cd228b5c0c5b79bc3.png",
+    "static/media/satelite2.jpg": "/space-landing-page/static/media/satelite2.ad33e82d94ef2117aea7.jpg",
+    "static/media/satelite1.jpg": "/space-landing-page/static/media/satelite1.4081d588475f5892adef.jpg",
+    "static/media/logo.png": "/space-landing-page/static/media/logo.b48ef817442e1ad9d4a3.png",
+    "index.html": "/space-landing-page/index.html",
+    "main.7f3b7046.css.map": "/space-landing-page/static/css/main.7f3b7046.css.map",
+    "main.21105854.js.map": "/space-landing-page/static/js/main.21105854.js.map",
+    "453.1a094713.chunk.js.map": "/space-landing-page/static/js/453.1a094713.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f3b7046.css",
+    "static/js/main.21105854.js"
+  ]
+}
